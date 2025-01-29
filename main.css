@@ -1,0 +1,56 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar */
+.navbar {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+}
+
+/* Hero Section */
+.hero img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+/* Upload Box */
+.upload-box {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Image Preview */
+#imagePreview {
+    display: none;
+    width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+    background-color: #343a40;
+}
+.name{
+    color:brown;
+    font-family:Verdana;
+    font-size:30px;
+    font-weight:bold;
+}
